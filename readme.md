@@ -150,12 +150,6 @@ bookshelf-api/
 
 ---
 
-## 📄 Lisensi
-
-Proyek ini didistribusikan di bawah [MIT License](LICENSE). Bebas digunakan, dimodifikasi, dan disebarkan selama menyertakan atribusi yang sesuai.
-
----
-
 ## 👤 Kontributor
 
 Raditya Mulya (Aether Vale)  
