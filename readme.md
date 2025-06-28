@@ -43,7 +43,7 @@ Bookshelf API adalah RESTful API sederhana yang dirancang untuk mengelola koleks
 1. Clone repositori:
 
 ```bash
-git clone https://github.com/username/bookshelf-api.git
+git clone https://github.com/Raditxt/bookshelf_api.git
 cd bookshelf-api
 ```
 
